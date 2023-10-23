@@ -7,6 +7,7 @@
 * 能量租赁，兑换TRX功能二合一，点击体验 👉 [https://t.me/TBTrxBot](https://t.me/TBTrxBot)
 * 不依赖机器人交互，任何场景下，客户只要知道您收款地址，转 U 立回 TRX，转 TRX 立回能量。
 * 程序定制可联系作者 [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot)
+* 可提供API，你只需调用接口，即可发送能量到客户地址，无需自己质押TRX。
 
 
 ### 当前能量实时价格
