@@ -1,4 +1,4 @@
-# Tronbot 自助兑币机/能量租赁
+# TRONBOT 自助兑币机/能量租赁
 
 ### 波场TRON能量租赁机器人、TRX能量自助租赁、TRX自助兑币机、自助兑换TRX、TRX兑换、能量转账api、波场能量api。
 
@@ -7,7 +7,10 @@
 * 能量租赁，兑换TRX功能二合一，点击体验 👉 [https://t.me/TBTrxBot](https://t.me/TBTrxBot)
 * 不依赖机器人交互，任何场景下，客户只要知道您收款地址，转 U 立回 TRX，转 TRX 立回能量。
 * 程序定制可联系作者 [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot)
-* 可提供API，你只需调用接口，即可发送能量到客户地址，无需自己质押TRX。
+
+### 能量转账API、波场能量API接口
+* 提供API，调用接口，即可发送能量到指定TRC20地址，无需自己质押TRX。
+* 每日能量资源8000W+，联系客服 [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot) 发您接口文档。
 
 
 ### 当前能量实时价格
