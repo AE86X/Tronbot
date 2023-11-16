@@ -12,6 +12,8 @@
 * 提供API，调用接口，即可发送能量到指定TRC20地址，无需自己质押TRX。
 * 每日能量资源8000W+，联系客服 [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot) 发您接口文档。
 
+### [免费成为代理，可自定义价格]
+* 免费成为代理，自行部署，请参考教程 👉 ([Release](https://github.com/AE86X/Tronbot/releases/)) 。
 
 ### 当前能量实时价格
 **对方有U   2.3TRX = 33000**
