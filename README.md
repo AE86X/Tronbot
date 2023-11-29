@@ -10,7 +10,7 @@
 
 ### 能量转账API、波场能量API接口
 * 提供API，调用接口，即可发送能量到指定TRC20地址，无需自己质押TRX。
-* 每日能量资源8000W+，查看频道获取最新价格及接口文档 [https://t.me/apitron](https://t.me/apitron) 。
+* 每日能量资源8000W+，订阅频道获取最新价格及接口文档 [https://t.me/apitron](https://t.me/apitron) 。
 
 ### [免费成为代理，可自定义价格]
 * 免费成为代理，自行部署，请参考教程 👉 ([Release](https://github.com/AE86X/Tronbot/releases/)) 。
