@@ -20,3 +20,6 @@
 **对方有U   1.88TRX = 33000**
 
 **对方无U   3.6TRX = 66000**
+
+
+### 热门VPS推荐 [链接](https://github.com/AE86X/Tronbot/blob/main/RACKNERD.md)（年付低至$10）。
