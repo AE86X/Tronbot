@@ -17,7 +17,7 @@
 * 免费成为代理，自行部署，请参考教程 👉 ([Release](https://github.com/AE86X/Tronbot/releases/)) 。
 
 ### 当前能量实时价格
-**对方有U   1.88TRX = 33000**
+**对方有U   1.8TRX = 33000**
 
 **对方无U   3.6TRX = 66000**
 
