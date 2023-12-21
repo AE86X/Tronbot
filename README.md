@@ -15,7 +15,7 @@
 
 ### 🔥[免费成为代理，可自定义价格]
 * 免费成为代理，自行部署，请参考教程 👉 ([Release](https://github.com/AE86X/Tronbot/releases/)) 。
-* 如您没有服务器，且不会部署，请联系客服，可提供托管服务。
+* 如您没有服务器，且不会部署，请联系客服 [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot)，可提供托管服务。
 
 ### 当前能量实时价格
 **对方有U   1.8TRX = 33000**
