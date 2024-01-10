@@ -40,7 +40,7 @@
 1. 给予`tronbot`可执行权限，命令行输入`chmod +x tronbot`
 2. 启动命令 `./tronbot` 
 3. 到这一步就算是正式启动了，但是无法后台运行，你关掉终端，程序就停了，为了保证程序持续运行，请看第4步。
-4. 配置supervisor (不太熟悉下面流程的建议使用宝塔，搜索supervisor管理器，添加路径/root/tron，可执行文件填写/root/tron/tronbot即可，这里的`/root/tron/tronbot`不要照抄，根据你的可执行文件的位置来)
+4. 配置supervisor (不太熟悉下面流程的建议使用宝塔，搜索supervisor管理器，运行目录/root/tron，执行命令填写/root/tron/tronbot即可，这里的`/root/tron/tronbot`不要照抄，根据你的可执行文件的位置来)
 5. 如果你使用宝塔配置成功，就无需往下看了，如果不用宝塔，请看第6步。
 6. 为了保证`tronbot`常驻后台运行，我们需要配置`supervisor`来实现进程监听  (supervisor的安装，可参考[链接](https://learnku.com/laravel/t/3592/using-supervisor-to-manage-laravel-queue-processes))
 
