@@ -13,7 +13,7 @@
 * 提供API，调用接口，即可发送能量到指定TRC20地址，无需自己质押TRX。
 * 每日能量资源1.7亿+，订阅频道获取最新价格及接口文档 [https://t.me/apitron](https://t.me/apitron) 。
 
-### 🔥[免费成为代理，可自定义价格]
+### 🔥[免费成为代理，自己收款地址，自定义价格]
 * 免费成为代理，自行部署，请参考教程 👉 ([Release](https://github.com/AE86X/Tronbot/releases/)) 。
 * 如您没有服务器，且不会部署，请联系客服 [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot)，可提供托管服务。
 
