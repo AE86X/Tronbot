@@ -11,7 +11,7 @@
 		SHOP_NAME="TRX自助兑币机"
 		# TRC20地址
 		add=TXTnkc4giLRKwGKtmPxC2dru3NBD5xxxxx
-		# TRC20地址私钥, 可不填，不填USDT兑换TRX无法实现
+		# TRC20地址私钥, 可不填，不填USDT兑换TRX无法实现，⚠️如果使用此功能，请注意每次补充TRX时务必大于60TRX，否则低于60的都会触发能量兑换
 		PrivateKey=8cd604b6919af1f61cdf5964cd591c78b18c9435300d646105e8488dxxxxx
 		# 波场APIKEY地址, 去 https://www.trongrid.io/ 申请 (可不填, 影响不大)
 		TRON_APIKEY=xxx
