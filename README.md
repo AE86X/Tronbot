@@ -11,16 +11,16 @@
 ### 🤝能量转账API、波场能量API接口
 * 网站：[https://apitrx.com](https://apitrx.com) 
 * 提供API，调用接口，即可发送能量到指定TRC20地址，无需自己质押TRX。
-* 每日能量资源1.7亿+，订阅频道获取最新价格及接口文档 [https://t.me/apitron](https://t.me/apitron) 。
+* 每日能量资源3.5亿+，订阅频道获取最新价格及接口文档 [https://t.me/apitron](https://t.me/apitron) 。
 
 ### 🔥[免费成为代理，自己收款地址，自定义价格]
 * 免费成为代理，自行部署，请参考教程 👉 ([Release](https://github.com/AE86X/Tronbot/releases/)) 。
 * 如您没有服务器，且不会部署，请联系客服 [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot)，可提供托管服务。
 
 ### 当前能量实时价格，量大、包月、更优惠。
-**对方有U   1.8TRX = 33000**
+**对方有U   1.5TRX = 32000**
 
-**对方无U   3.6TRX = 66000**
+**对方无U   3.0TRX = 65000**
 
 
 ### 热门VPS推荐 [链接](https://github.com/AE86X/Tronbot/blob/main/RACKNERD.md)（年付低至$10）。
