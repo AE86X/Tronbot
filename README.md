@@ -5,7 +5,7 @@
 * Go 语言轻量级实现，支持跨平台，高并发。
 * 私有化部署方便，一行命令即可部署。
 * 能量租赁，兑换TRX功能二合一，点击体验 👉 [https://t.me/TBTrxBot](https://t.me/TBTrxBot)
-* 不依赖机器人交互，任何场景下，客户只要知道您收款地址，转 U 立回 TRX，转 TRX 立回能量。
+* 不依赖机器人交互，任何场景下，客户只要知道您收款地址，转 U 立回 TRX（可选），转 TRX 立回能量。
 * 程序定制可联系作者 [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot)
 
 ### 🤝能量转账API、波场能量API接口
@@ -16,6 +16,8 @@
 ### 🔥[免费成为代理，自己收款地址，自定义价格]
 * 免费成为代理，自行部署，请参考教程 👉 ([Release](https://github.com/AE86X/Tronbot/releases/)) 。
 * 如您没有服务器，且不会部署，请联系客服 [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot)，可提供托管服务。
+
+### 🔔程序目前已支持多级代理，可自行招募。
 
 ### 当前能量实时价格，量大、包月、更优惠。
 **对方有U   1.5TRX = 32000**
