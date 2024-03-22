@@ -25,8 +25,8 @@
 		lockTime=60
 		# 兑换TRX利润率默认8%  如果你想赚8个点,就写0.08, 赚10个点,就写0.1
 		trxRate=0.08
-		# 能量单价  32000能量需要多少TRX, 默认2.0TRX 32000, 自行定价, 目前成本2.0
-		energyUnit=2.0
+		# 能量单价  32000能量需要多少TRX, 默认2.5TRX 32000, 自行定价, 目前成本1.8
+		energyUnit=2.5
 		# TRX兑换/能量租赁欢迎语,底部挂载按钮文字及链接,格式如下, | 必须带
 		linkButton=联系客服|https://t.me/自己的TG用户名
 		# 调用能量发送的APIKEY  去 https://t.me/XXTrxBot 申请
