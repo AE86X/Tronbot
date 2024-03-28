@@ -8,29 +8,48 @@
 4. 根据 `.env ` 内的备注，修改相关参数，非必填的可不写。
 
 		# 店铺名称
-		SHOP_NAME="TRX自助兑币机"
-		# TRC20地址
+		SHOP_NAME="能量自动兑换"
+		# 接收TRX的TRC20地址，该地址入账，会发起兑换能量
 		add=TXTnkc4giLRKwGKtmPxC2dru3NBD5xxxxx
-		# TRC20地址私钥, 可不填，不填USDT兑换TRX无法实现，（如果不想使用自己地址出账，可联系客服生成专用地址，从客服账户出账）⚠️如果使用此功能，请注意每次补充TRX时务必大于60TRX，否则低于60的都会触发能量兑换
-		PrivateKey=8cd604b6919af1f61cdf5964cd591c78b18c9435300d646105e8488dxxxxx
-		# 波场APIKEY地址, 去 https://www.trongrid.io/ 申请 (可不填, 影响不大)
-		TRON_APIKEY=xxx
+		
+		
+		# =============如果使用USDT兑换TRX, 请根据下方要求填写, 如不使用该功能, 忽略即可============
+		# USDT兑换TRX的收U地址, 可与上方收TRX地址相同
+		USDTADD=TXTnkc4giLRKwGKtmPxC2dru3NBD5xxxx
+		# USDT兑换上方收U地址收到USDT后, 出TRX的地址(发起转账TRX)和私钥填写下方, 可与收TRX收USDT地址一样(不想麻烦3个地址填写同一个地址即可)
+		USDTOWNER=TXTnkc4giLRKwGKtmPxC2dru3NBD5xxxx
+		# 发起TRX转账地址的私钥，USDTOWNER地址对应的私钥
+		PrivateKey=d66182f1bfe2b6b3a32a231f0cf1e748f1336513150cc9d71838334
+		# =============如果使用USDT兑换TRX, 请根据上方要求填写, 如不使用该功能, 忽略即可============
+		
+		# !!!!!!!!!!!如您想使用USDT兑换功能不想从自己地址发起转账TRX, 可联系客服使用客服地址!!!!!!!!!!!
+		
+		
+		
+		# 波场APIKEY地址, 去 https://www.trongrid.io/ 申请 (可不填, 防止请求限制, 最好去申请下)
+		TRON_APIKEY=cb6fxx
 		# 管理员 telegram ID 用于接收账户变动通知
-		uid=63332812122
-		# 群组ID, 用于向群里发送交易通知  注意群ID都是以 - 开头
-		gid=-4073121212
+		uid=6028xxx
+		# 群组ID, 用于向群里发送交易通知  注意群ID都是以 - 开头(可不填)
+		gid=
+		# 群组内通知，底部两个按钮支持挂载链接
+		GroupLeftButton=群组通知下方左侧文字|https://t.me/BotFather
+		GroupRightButton=群组通知下方右侧文字|https://t.me/BotFather
+		
 		# TG 机器人Token
-		TG_TOKEN=6182447226:AAGD3BDe6PYxo0EXTYjj65sHxxxxxxx
+		TG_TOKEN=5962152892:AAGIdZtUxxxxxx
 		# 能量租赁时长默认 1个小时 60分钟 不要动
 		lockTime=60
 		# 兑换TRX利润率默认8%  如果你想赚8个点,就写0.08, 赚10个点,就写0.1
 		trxRate=0.08
-		# 能量单价  32000能量需要多少TRX, 默认2.5TRX 32000, 自行定价, 目前成本1.8
+		# 能量单价  32000能量需要多少TRX, 默认2.5TRX 32000, 自行定价
 		energyUnit=2.5
+		# 最高翻倍数, 定价2.5 设置20倍，转进去50TRX, 自动回32000*20=640000能量，转进去51及以上，不触发能量发送
+		MAX=20
 		# TRX兑换/能量租赁欢迎语,底部挂载按钮文字及链接,格式如下, | 必须带
-		linkButton=联系客服|https://t.me/自己的TG用户名
+		linkButton=联系客服|https://t.me/xxxxx
 		# 调用能量发送的APIKEY  去 https://t.me/XXTrxBot 申请
-		DAPI_KEY=XXXX-XXXX-XXXX-XXXX
+		DAPI_KEY=D7698E31xxxx
 
 
  ⚠️注意：配置文件里面不认识的不要修改，留空即可。
