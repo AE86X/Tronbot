@@ -76,7 +76,9 @@
 5. 如果你使用宝塔配置成功，就无需往下看了，如果不用宝塔，请看第6步。
 6. 为了保证`tronbot`常驻后台运行，我们需要配置`supervisor`来实现进程监听  (supervisor的安装，可参考[链接](https://learnku.com/laravel/t/3592/using-supervisor-to-manage-laravel-queue-processes))
 
-`vi /etc/supervisor/conf.d/tronbot.conf`
+
+* 安装supervisor `apt install supervisor`，安装完成进入 `/etc/supervisor/conf.d/` 文件夹编辑个配置文件。
+* `vi /etc/supervisor/conf.d/tronbot.conf`
 
 你可以参考以下配置文件，注意更改路径，编辑完记得保存。
 
@@ -92,9 +94,9 @@
 	startsecs=3
 
 
-接下来输入命令 `supervisorctl update` 不报错即执行成功
+* 接下来输入命令 `supervisorctl update` 不报错即执行成功
 
-查看运行状态 `supervisorctl status` 显示 RUNNING 即正在运行
+* 查看运行状态 `supervisorctl status` 显示 RUNNING 即正在运行
 
 
 #### 其他注意事项
