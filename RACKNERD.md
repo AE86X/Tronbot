@@ -2,8 +2,6 @@
 
 * 768M / 1C / 15G SSD / 1T   $10.18/年 (23黑5) [点击购买](https://my.racknerd.com/aff.php?aff=5021&pid=792)
 
-* 1G / 1C / 20G SSD / 4T   $10.29/年 (LEB专属) [点击购买](https://my.racknerd.com/aff.php?aff=5021&pid=810)
-
 * 1G / 1C / 17G SSD / 3T   $10.98/年 [点击购买](https://my.racknerd.com/aff.php?aff=5021&pid=358)
 
 * 1GB / 1C / 20G SSD / 2T   $13.98/年 (22新年) 含DC2 [点击购买](https://my.racknerd.com/aff.php?aff=5021&pid=621)
