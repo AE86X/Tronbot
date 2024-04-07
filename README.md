@@ -4,7 +4,7 @@
 
 * Go 语言轻量级实现，支持跨平台，高并发。
 * 私有化部署方便，一行命令即可部署。
-* 能量租赁，兑换TRX功能二合一，点击体验 👉 [https://t.me/TBTrxBot](https://t.me/TBTrxBot)
+* 能量租赁，兑换TRX功能二合一，支持群通知，点击体验 👉 [https://t.me/TBTrxBot](https://t.me/TBTrxBot)
 * 不依赖机器人交互，任何场景下，客户只要知道您收款地址，转 U 立回 TRX（可选），转 TRX 立回能量。
 * 程序定制可联系作者 [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot)
 
