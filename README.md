@@ -14,8 +14,8 @@
 * 每日能量资源4.5亿+，量大价格可谈，订阅频道获取价格及接口文档 [https://t.me/apitron](https://t.me/apitron) 。
 
 ### 🔥[免费成为代理，自己收款地址，自定义价格]
-* 免费成为代理，自行部署，请参考教程 👉 ([Release](https://github.com/AE86X/Tronbot/releases/)) 。
-* 如您没有服务器，且不会部署，请联系客服 [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot)，可提供托管服务。
+* 免费成为代理，自行部署机器人，请参考教程 👉 ([Release](https://github.com/AE86X/Tronbot/releases/)) 。
+* 如您没有服务器，且不会部署，请联系客服 [https://t.me/apitrxx](https://t.me/apitrxx)，可提供地址托管服务。
 
 ### 🔔程序目前已支持多级代理，可自行招募。
 
