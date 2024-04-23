@@ -8,7 +8,7 @@
 * 不依赖机器人交互，任何场景下，客户只要知道您收款地址，转 U 立回 TRX（可选），转 TRX 立回能量。
 * 程序定制可联系作者 [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot)
 
-### 🤝能量转账API、波场能量API接口
+### 🤝能量转账API、波场能量API接口、购买能量🔋
 * 网站：[https://apitrx.com](https://apitrx.com) 
 * 提供API，调用接口，即可发送能量到指定TRC20地址，无需自己质押TRX。
 * 每日能量资源4.5亿+，量大价格可谈，订阅频道获取价格及接口文档 [https://t.me/apitron](https://t.me/apitron) 。
