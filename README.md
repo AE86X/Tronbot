@@ -19,10 +19,14 @@
 
 ### 🔔程序目前已支持多级代理，可自行招募。
 
-### 当前能量实时价格，量大、包月、更优惠。
+### 💰当前能量实时价格，量大、包月、更优惠。
 **对方有U   1.5TRX = 32000**
 
 **对方无U   3.0TRX = 65000**
+
+### 🔋请向地址`TTFbQWFmhphfAbqqJAGZ2Dk9MBEgebPwvr`转账对应TRX，3秒内会收到对应能量，支持翻倍。
+
+
 
 
 ### 热门VPS推荐 [链接](https://github.com/AE86X/Tronbot/blob/main/RACKNERD.md)（年付低至$10）。
