@@ -24,7 +24,7 @@
 
 **对方无U   3.0TRX = 65000**
 
-### 🔋请向地址`TTFbQWFmhphfAbqqJAGZ2Dk9MBEgebPwvr`转账对应TRX，3秒内会收到对应能量，支持翻倍。
+### 🔋请向地址`TTFbQWFmhphfAbqqJAGZ2Dk9MBEgebPwvr`转账对应TRX，3秒内会收到对应能量，支持翻20倍。
 
 
 
