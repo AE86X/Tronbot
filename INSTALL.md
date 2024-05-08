@@ -50,8 +50,8 @@
 		# 群组ID, 用于向群里发送交易通知  注意群ID都是以 - 开头(可不填)
 		gid=
 		# 群组内通知，底部两个按钮支持挂载链接
-		GroupLeftButton=群组通知下方左侧文字|(https://t.me/+adRvkfB9UqFlZDU1)
-		GroupRightButton=群组通知下方右侧文字|(https://t.me/+adRvkfB9UqFlZDU1)
+		GroupLeftButton=群组通知下方左侧文字|(https://t.me/JUXING44)
+		GroupRightButton=群组通知下方右侧文字|(https://t.me/JUXING44)
 		# =============群组内通知，如果您不使用该功能，忽略上方=============
 		
 		
