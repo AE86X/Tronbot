@@ -10,15 +10,15 @@
 		SHOP_NAME="能量自动兑换"
 		
 		# TRC20地址，收TRX的地址
-		add=TXTnkc4giLRKwGKtmPxC2dru3NBD5xxxxx
+		add=TW4M2gLpVpzTXBzro2RBoQVj7YFfahVg4X
 		
 		
 		# 波场APIKEY地址, 去 https://www.trongrid.io/ 申请 (可不填, 防止请求限制, 最好去申请下)
-		TRON_APIKEY=cb6fxx
+		TRON_APIKEY=7bc6f95c-0e62-4e67-b55e-cd80768ef4ca
 		# 管理员 telegram ID 用于接收账户变动通知
-		uid=6028xxx
+		uid=1937982359
 		# TG 机器人Token
-		TG_TOKEN=5962152892:AAGIdZtUxxxxxx
+		TG_TOKEN=7118891470:AAEabdltxkuwEYOwfT7MVnLVQbGj7iZX_ts
 		# 能量租赁时长默认 1个小时 60分钟 不要动
 		lockTime=60
 		# 兑换TRX利润率默认8%  如果你想赚8个点,就写0.08, 赚10个点,就写0.1
@@ -28,9 +28,9 @@
 		# 最高翻倍数, 定价2.5 设置20倍，转进去50TRX, 自动回32000*20=640000能量，转进去51及以上，不触发能量发送
 		MAX=20
 		# TRX兑换/能量租赁/笔数欢迎语,底部挂载按钮文字及链接,格式如下, | 必须带
-		linkButton=联系客服|https://t.me/xxxxx
-		# 调用能量发送的APIKEY  去 https://t.me/XXTrxBot 申请
-		DAPI_KEY=D7698E31xxxx
+		linkButton=联系客服|https://t.me/@chuxin1
+		# 调用能量发送的APIKEY  去 [https://t.me/XXTrxBot] 申请
+		DAPI_KEY=40D0905E-BA03-4796-AB63-15663016BA08
 		
 		
 		
