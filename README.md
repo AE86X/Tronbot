@@ -25,9 +25,13 @@
 
 **对方无U   4.0TRX = 65000**
 
-### 🔋请向地址`TTFbQWFmhphfAbqqJAGZ2Dk9MBEgebPwvr`转账对应TRX，3秒内会收到对应能量，支持翻20倍。
+### 🔋购买能量🔋 
+请向地址`TPB9aDTxFL78zCmc5QWLBr6ti5vP188888`转账对应TRX，3秒内会收到对应能量，支持翻20倍。
 
-<img src="https://github.com/AE86X/Tronbot/assets/146047966/7e1425c3-e18c-4afe-a4c5-bf87703a0bc2" width="300" alt="apitrx.com">
+### 💰USDT兑换TRX💰 
+请向地址`TPB9aDTxFL78zCmc5QWLBr6ti5vP188888`转账对应USDT，3秒内会收到TRX，根据交易所实时汇率，单笔最低 5 USDT，请不要使用交易所转账！
+
+<img src="https://github.com/AE86X/Tronbot/assets/146047966/95554311-3052-4295-995a-8323023e06de" width="300" alt="apitrx.com">
 
 
 ### 热门VPS推荐 [链接](https://github.com/AE86X/Tronbot/blob/main/RACKNERD.md)（年付低至$10）。
