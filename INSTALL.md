@@ -9,7 +9,7 @@
 
 ## 如何部署
 
-1. 先下载 `tronbot.tar.gz`，下载完成后，文件夹内仅依赖2个文件，`tronbot` 和`config.yaml` 
+1. 请在 [Release](https://github.com/AE86X/Tronbot/releases) 页面下载 `tronbot.tar.gz`，下载完成后，文件夹内仅依赖2个文件，`tronbot` 和`config.yaml` 
 2. `tronbot` 为启动文件，无需关注。`config.yaml`  为配置文件，所有配置信息在此文件内填写，请认真阅读下方内容。
 3. 有必填字样的必须填写，其他可选填。
 
