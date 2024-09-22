@@ -13,13 +13,22 @@
 <img src="https://github.com/user-attachments/assets/b6b4e7fb-3bee-4e80-9c4d-1ab8fd1b5353" width="35%">
 
 ### 🔥[能量转租，自己收款地址，自定义价格]
-* 能量转租，请自行部署机器人，参考教程 👉 ([教程](./INSTALL.md)) 。
-
+* 能量转租，有服务器请自行部署机器人，参考教程 👉 ([教程](./INSTALL.md)) 。
+* 无服务器需要托管地址请联系客服。
 
 ### 🤝波场能量API接口、笔数API、能量速充API🔋
 * 提供API，调用接口，即可发送能量到指定TRC20地址，无需自己质押TRX。
 * 现API已支持能量速充，适合自己有基础能量的客户，未恢复的能量快速帮你填满。
 * 接口文档详询客服 [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot) 。
 
+### 🔋能量闪租
+➡️ 3 TRX = 65000 免费转账1次
+
+➡️ 6 TRX = 131000 免费转账2次
+
+例：转 3 个TRX 到下面地址，3秒后再去转U不扣TRX手续费
+
+➡️ 下单地址：
+`TWHNEdk5o5qt84bSbFQKqK8LxVxp5wKxgh`
 
 ### 热门VPS推荐 [链接](./RACKNERD.md)（年付低至$10）。
