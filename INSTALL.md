@@ -1,8 +1,8 @@
 
 ## 写在前面
 
-* 机器人免费使用，并未开源，基础功能完整，能覆盖现有业务需求，**不接受定制/修改等需求**，如介意，请关闭此页面。
-* 部署请仔细查看教程，自己不了解或不懂的，请使用 [Google](https://google.com) 来解决您的问题。
+* 机器人免费使用，并未开源，基础功能完整，能覆盖现有业务需求，**暂不支持定制**，如介意，请关闭此页面。如有好的优化建议，可联系客服。
+* 部署请仔细查看下方教程，自己不了解或不懂的，可使用 [Google](https://google.com) 来解决您的问题。
 
 
 
@@ -20,7 +20,7 @@
 		TGUserID: 520921928
 		# 波场APIKEY地址, 去 https://www.trongrid.io/ 申请 (可不填, 防止请求限制, 最好去申请下)
 		TRONApiKey: xxxx-xx-xx-xx-xx
-		# https://t.me/XXTrxBot 查看ApiKey，用于能量发送（必填）
+		# https://t.me/XXTrxBot 查看ApiKey，预存余额，用于能量发送，也可自己使用（必填）
 		XBotApiKey: 9396B64F-14A5-3829-A63D-AX
 		# 点击联系客服回复内容（必填）
 		Contact: "客服 @BotFather"
