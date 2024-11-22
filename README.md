@@ -10,7 +10,7 @@
 * 一个地址对应一个通知机器人，通知到多个群/频道。
 * 可自定义挂载多个消息底部按钮。
 
-<img src="https://github.com/user-attachments/assets/73f33d8b-3b5f-471f-bfa4-e87e617a93ca" width="35%">
+<img src="https://github.com/user-attachments/assets/8f893e82-7afb-4e7c-b54f-111fa3f0a49c" width="35%">
 
 ### 🔥[能量转租，自己收款地址，自定义价格]
 * 能量转租，有服务器请自行部署机器人，参考教程 👉 ([教程](./INSTALL.md)) 。
