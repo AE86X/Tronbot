@@ -10,7 +10,7 @@
 * 一个地址对应一个通知机器人，通知到多个群/频道。
 * 可自定义挂载多个消息底部按钮。
 
-<img src="https://github.com/user-attachments/assets/b6b4e7fb-3bee-4e80-9c4d-1ab8fd1b5353" width="35%">
+<img src="https://github.com/user-attachments/assets/73f33d8b-3b5f-471f-bfa4-e87e617a93ca" width="35%">
 
 ### 🔥[能量转租，自己收款地址，自定义价格]
 * 能量转租，有服务器请自行部署机器人，参考教程 👉 ([教程](./INSTALL.md)) 。
@@ -30,5 +30,8 @@
 
 ➡️ 下单地址：
 `TWHNEdk5o5qt84bSbFQKqK8LxVxp5wKxgh`
+
+### 🌈 查币机
+* 一个更好用的地址查询，交易通知，资源回收代理通知机器人。[https://t.me/BlockQueryBot](https://t.me/BlockQueryBot) 。
 
 ### 热门VPS推荐 [链接](./RACKNERD.md)（年付低至$10）。
