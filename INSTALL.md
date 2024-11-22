@@ -39,7 +39,7 @@
 		    bot_btn: "按钮一|https://t.me,按钮二|https://t.me/botfather,按钮三|https://google.com,按钮四|https://google.com,按钮四|https://google.com" #机器人回复消息下方挂载的按钮，显示文字和跳转地址请使用 | 竖线符号分开，多个按钮请使用 , 逗号隔开。
 		    bot_token: "6182447221:AAGD3BDe6PYxo0EXTYjj65sHDbjfsy9HGOY" #发送群通知的机器人token
 		    group_btn: "按钮一|https://t.me,按钮二|https://t.me/botfather,按钮三|https://google.com" #群通知消息下方挂载的按钮，显示文字和跳转地址请使用 | 竖线符号分开，多个按钮请使用 , 英文逗号隔开。
-		    group_id: "-4073190212,-4073190212,-4073190212" # 通知到到哪些群/频道，多个请使用, 英文逗号隔开
+		    group_id: "-4073190212,-4073190212,-4073190212" # 通知到到哪些群/频道，多个请使用, 英文逗号隔开，群ID和频道ID可使用 https://t.me/BlockQueryBot 查询
 		    
 		  - trx_own: "TTnvWwCA7Mw5U1P66Y4tpB3QaUTwxssSSS" 
 		    price: 1.5
