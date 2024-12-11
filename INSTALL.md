@@ -66,9 +66,9 @@
  
 1. 给予`tronbot`可执行权限，命令行输入`chmod +x tronbot`
 2. 启动命令 `./tronbot` 
-3. 到这一步就算是正式启动了，但是无法后台运行，关掉终端，程序就停了，为了保证程序持续运行，请看第7步。
+3. 到这一步就算是正式启动了，但是无法后台运行，关掉终端，程序就停了，为了保证程序持续运行，请看第4步。
 4. 配置supervisor (不太熟悉下面流程的建议使用宝塔，搜索supervisor管理器，运行目录`/root/tronbot`，执行命令填写`/root/tronbot/tronbot`即可，这里的`/root/tronbot/tronbot`不要照抄，根据你的可执行文件的位置来)
-5. 如果你使用宝塔配置成功，就无需往下看了，如果不用宝塔，请看第9步。
+5. 如果你使用宝塔配置成功，就无需往下看了，如果不用宝塔，请看第6步。
 6. 为了保证`tronbot`常驻后台运行，我们需要配置`supervisor`来实现进程监听，安装supervisor `apt install supervisor`，安装完成进入 `/etc/supervisor/conf.d/` ，文件夹编辑配置文件， `vi /etc/supervisor/conf.d/tronbot.conf`
 
 可参考以下配置文件，注意更改路径，编辑完记得保存。
