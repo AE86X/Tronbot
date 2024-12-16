@@ -1,7 +1,6 @@
-
 ## 写在前面
 
-* 机器人免费使用无月租，您自己地址收款。并未开源（原因是独家供应），基础功能完整，能覆盖现有业务需求，如有好的优化建议，可联系客服。
+* 机器人免费使用无月租，您自己地址收款。并未开源，基础功能完整，能覆盖现有业务需求，如有好的优化建议，可联系客服。
 * 部署请仔细查看下方教程，自己不了解或不懂的，可使用 [Google](https://google.com) 来解决您的问题。
 * 在配置过程中，如需要获取个人ID/群ID/频道ID可使用 https://t.me/BlockQueryBot 获取。
 
@@ -92,4 +91,10 @@
 
 
 #### 其他注意事项
-* `.config.yaml`配置文件修改后务必重启supervisor进程后才会生效，重启命令 `supervisorctl restart bot` 
+* `.config.yaml`配置文件修改后务必重启supervisor进程后才会生效，重启命令 `supervisorctl restart bot`
+
+
+#### 流程图
+
+<img src="https://github.com/user-attachments/assets/413e1181-52e6-4a47-86cc-fb1543ae6ebb" width="85%">
+
