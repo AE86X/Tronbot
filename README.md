@@ -32,7 +32,7 @@
 ➡️ 下单地址：
 `TWHNEdk5o5qt84bSbFQKqK8LxVxp5wKxgh`
 
-### 🎁 Telegram Premium（提供API）
+### 🎁 Telegram Premium 会员（提供API）
 
 | 时长  | 价格 |
 |:-----:|:-----:|
