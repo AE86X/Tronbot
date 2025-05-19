@@ -1,4 +1,4 @@
-# TRONBOT 自助兑币机/能量租赁
+# TRONBOT 自助兑币机/能量租赁/会员代开
 
 ### 波场TRON能量租赁机器人、TRX能量自助租赁、TRX自助兑币机、自助兑换TRX、TRX兑换、能量转账api、波场能量api，地址激活，能量速充，飞机会员，飞机会员api，rent tron energy，energy rent。
 
@@ -14,7 +14,7 @@
 <img src="https://github.com/user-attachments/assets/8f893e82-7afb-4e7c-b54f-111fa3f0a49c" width="35%">
 
 ### 🔥 [能量转租，自己收款地址，自定义价格]
-* 能量转租，有服务器请自行部署机器人，参考教程 👉 ([教程](./INSTALL.md)) 。
+* 能量转租/会员代开，有服务器请自行部署机器人，参考教程 👉 ([教程](./INSTALL.md)) 。
 * 无服务器需要托管地址可 👉 [自助开通 ](https://t.me/TRONQuery_Bot)。
 
 ### 🤝 波场能量API接口、笔数API、能量速充API 🔋
