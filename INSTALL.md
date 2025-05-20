@@ -20,10 +20,20 @@
 		TGUserID: 520921928
 		# 波场APIKEY地址, 去 https://www.trongrid.io/ 申请 (可不填, 防止请求限制, 最好去申请下)
 		TRONApiKey: xxxx-xx-xx-xx-xx
-		# https://t.me/XXTrxBot 查看ApiKey，预存余额，用于能量发送，也可自己使用（必填）
+		# ⚠️ 先前往 https://t.me/XXTrxBot 查看ApiKey，预存余额，用于能量发送，也可自己使用（必填）
 		XBotApiKey: 9396B64F-14A5-3829-A63D-AX
 		# 点击联系客服回复内容（必填）
 		Contact: "客服 @BotFather"
+
+
+		# 💎下方配置会员代开相关信息，如果不需要启用此功能，请删除这部分配置信息。
+		Premium:
+		  GiftApikey: "a928f8fd-cf54-45c1-98ff-1dee7fba23cb" # 请前往 https://t.me/GiftAPIBot 查看ApiKey，用于会员代开的扣款
+		  Reveiver: "TXYqcWRnNP1bGsa9tzjsEJiKAYwMRonwMM" # 会员代开的收款地址，⚠️不要和能量相关业务使用相同地址。
+		  Price3: 12.5   # 开通对应时长的价格配置，3个月，6个月，1年。
+		  Price6: 16.5
+		  Price12: 29.9
+
 		
 		# 下方填写托管转租地址，不限制数量，可无限添加，每个-后可以看成一块，复制往后追加即可
 		Values:
