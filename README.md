@@ -2,6 +2,8 @@
 
 ### 波场TRON能量租赁机器人、TRX能量自助租赁、TRX自助兑币机、自助兑换TRX、TRX兑换、能量转账api、波场能量api，地址激活，能量速充，飞机会员，飞机会员api，rent tron energy，energy rent。
 
+[🇺🇸 English](./README.en.md) | [🇷🇺 Русский](./README.ru.md)
+
 * Go 语言轻量级实现，支持跨平台，高并发。
 * 私有化部署方便，一行命令即可部署。
 * 能量租赁，TRX兑换功能二合一，同时支持归集/速充/激活/托管/笔数。点击体验 👉 [https://t.me/TMTrxBot](https://t.me/TMTrxBot)
