@@ -41,8 +41,11 @@
 		  - trx_own: "TXYqcWRnNP1bGsa9tzjsEJiKAYwMRonoMv" #收TRX地址（必填）
 		    price: 3.5	#32000能量定价（必填）
 		    max: 10	#最高翻倍数，如转入35TRX，发送32W能量（必填）
-		    auto_price: 6.5	#笔数单价，（不开通笔数直接删除该字段，⚠️ 如填写笔数，笔数单价x最低下单笔数 一定大于 闪租单价*最高翻倍数 ⚠️否则程序无法判断是闪租还是笔数）
+		    auto_price: 5.0	#笔数单价，（不开通笔数直接删除该字段，⚠️ 如填写笔数，笔数单价x最低下单笔数 一定大于 闪租单价*最高翻倍数 ⚠️否则程序无法判断是闪租还是笔数）
 		    auto_values: "10,20,30,50,100,200,300,500"	#笔数下单按钮，可显示XX笔，（不开通笔数可删除该字段）
+   		    smart_own: "TXYqcWRnNP1bGsa9tzjsEJiKAYwMRonw11" #⚠️⚠️新增了智能托管，增加新地址，不要和笔数同地址
+            smart_price: 3.0  # ⚠️智能托管价格
+            smart_values: "10,20,30,50,100,200,300,500" # ⚠️智能托管下单数量，最低10笔
 		    usdt_own: "TXYqcWRnNP1bGsa9tzjsEJiKAYwMRonoMv"  # USDT兑换TRX功能的收U地址（不开通可删除此字段）
 		    profit: 0.1	# 按照交易所汇率下浮点位，如：8个点填写0.08，15个点填写0.15。如需固定汇率请直接填写数值，1U换7TRX，直接填写7即可（不建议）
 		    trx_from: "TXYqcWRnNP1bGsa9tzjsEJiKAYwMRonwMv"	# 兑换TRX出TRX的地址，该地址请保留足够的TRX，否则发送不成功（不开通可删除此字段）
@@ -57,19 +60,6 @@
 		    recent10: 0		# 【防撸模式】如果设定对方地址最近10笔交易总额低于500不发送，修改为 500 即可 
 		    created: 0		# 【防撸模式】如果设定对方地址激活时间低于12小时不发送，修改为 12 即可 
 		    
-		  - trx_own: "TTnvWwCA7Mw5U1P66Y4tpB3QaUTwxssSSS" 
-		    price: 1.5
-		    max: 10
-		    auto_price: 3.5
-		    auto_values: "10,20,30,50,100,200,300,500"
-		    usdt_own: "TTnvWwCA7Mw5U1P66Y4tpB3QaUTwxssSSS"
-		    profit: 0.1
-		    trx_from: "TTnvWwCA7Mw5U1P66Y4tpB3QaUTwxssSSS"
-		    trx_pk: "d66182f1bfe2b6b3a32a231f0cf1e748f1336513150cc9d718383343bab81111"
-		    bot_btn: "按钮一|https://t.me,按钮二|https://t.me/botfather,按钮三|https://google.com"
-		    bot_token: "6182447221:AAGD3BDe6PYxo0EXTYjj65sHDbjfsy9HGOY"
-		    group_btn: "按钮一|https://t.me,按钮二|https://t.me/botfather,按钮三|https://google.com"
-		    group_id: "-4073190212,-4073190212,-4073190212"
 
 
  ⚠️注意：配置文件内必填项必须填写，其他可直接删除。
