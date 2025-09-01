@@ -20,16 +20,16 @@
 * Serverless requires a hosting address that can be 👉 [self-activated] (https://t.me/TRONQuery_Bot).
 
 ### 🤝 TRON Energy API Interface, Pen Number API, Energy Quick Charge API 🔋
-* Provide API, call the interface, you can send energy to the specified TRC20 address, no need to stake TRX yourself (price as low as **1.95TRX=65000**).
+* Provide API, call the interface, you can send energy to the specified TRC20 address, no need to stake TRX yourself (price as low as **1.17TRX=65000**).
 * Now the API has supported energy fast charging, which is suitable for customers who have their own basic energy, and the unrecovered energy can quickly fill up for you.
 * For more information about the interface, please contact customer service [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot).
 
 ### 🔋 Energy Flash Rental
-➡️ 2.5 TRX = 65000 1 free transfer
+➡️ 1.5 TRX = 65000 1 free transfer
 
-➡️ 5 TRX = 131000 2 free transfers
+➡️ 3 TRX = 131000 2 free transfers
 
-For example, if you transfer 2.5 TRX to the following address, you will not be charged TRX after 3 seconds
+For example, if you transfer 1.5 TRX to the following address, you will not be charged TRX after 3 seconds
 
 ➡️ Order address:
 `TWHNEdk5o5qt84bSbFQKqK8LxVxp5wKxgh`
