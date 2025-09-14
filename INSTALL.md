@@ -94,6 +94,9 @@
 #### 其他注意事项
 * `.config.yaml`配置文件修改后务必重启supervisor进程后才会生效，重启命令 `supervisorctl restart bot`
 
+#### 其他操作命令
+* 添加黑名单，请发送`添加 TXXXXXX`；删除黑名单请发送 `删除 TXXXXXX`
+* 广播通知，请发送`广播 XXXXX内容`；发送前建议先测试信息是否正确 `测试 XXXXX内容`
 
 #### 流程图
 
