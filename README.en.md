@@ -25,11 +25,11 @@
 * For more information about the interface, please contact customer service [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot).
 
 ### 🔋 Energy Flash Rental
-➡️ 1.8 TRX = 65000 1 free transfer
+➡️ 2 TRX = 65000 1 free transfer
 
-➡️ 3.6 TRX = 131000 2 free transfers
+➡️ 4 TRX = 131000 2 free transfers
 
-For example, if you transfer 1.5 TRX to the following address, you will not be charged TRX after 3 seconds
+For example, if you transfer 2 TRX to the following address, you will not be charged TRX after 3 seconds
 
 ➡️ Order address:
 `TWHNEdk5o5qt84bSbFQKqK8LxVxp5wKxgh`
