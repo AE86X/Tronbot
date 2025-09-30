@@ -25,11 +25,11 @@
 * 接口文档详询客服 [https://t.me/TBKeFuBot](https://t.me/TBKeFuBot) 。
 
 ### 🔋 能量闪租（单笔最高支持 50 T，发送 130W，100%成功）
-➡️ 1.8 TRX = 65000 免费转账1次
+➡️ 2 TRX = 65000 免费转账1次
 
-➡️ 3.6 TRX = 131000 免费转账2次
+➡️ 4 TRX = 131000 免费转账2次
 
-例：转 1.5 个TRX 到下面地址，3秒后再去转U不扣TRX手续费
+例：转 2 个TRX 到下面地址，3秒后再去转U不扣TRX手续费
 
 ➡️ 下单地址：
 `TWHNEdk5o5qt84bSbFQKqK8LxVxp5wKxgh`
