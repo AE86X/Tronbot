@@ -42,7 +42,5 @@
 | 6个月   | 16.5  | 
 | 12个月  | 29.5  | 
 
-### 🌈 查币机|交易监控
-* 一个更好用的地址查询，交易通知，资源回收代理通知机器人。[https://t.me/BlockQueryBot](https://t.me/BlockQueryBot) 。
 
 ### 热门VPS推荐 [链接](./RACKNERD.md)（年付低至$10）。
